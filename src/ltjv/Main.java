@@ -1,7 +1,7 @@
 package ltjv;
 
 import java.util.Scanner;
-
+//test
 public class Main {
 
 	public static void main(String[] args) {
